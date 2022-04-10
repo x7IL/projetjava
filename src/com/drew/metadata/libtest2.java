@@ -23,7 +23,7 @@ public class libtest2
 {
     public static void main(String[] args)
     {
-        File file = new File("/Users/wx/IdeaProjects/projet java/1365070268951.mp4");
+        File file = new File("/Users/wx/IdeaProjects/projet java/ear-rape-moaning-girl-troll-sound-crappy-long-edition-loudtronix-hq.mp3");
 
         // There are multiple ways to get a Metadata object for a file
 

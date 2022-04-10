@@ -16,7 +16,7 @@ public class libtest {
     public static void main(final String[] args) throws IOException, TikaException, SAXException {
 
         //Assume that boy.jpg is in your current directory
-        File file = new File("/Users/wx/IdeaProjects/projet java/1365070268951.mp4");
+        File file = new File("/Users/wx/IdeaProjects/projet java/ear-rape-moaning-girl-troll-sound-crappy-long-edition-loudtronix-hq.mp3");
 
         //Parser method parameters
         Parser parser = new AutoDetectParser();

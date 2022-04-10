@@ -12,7 +12,7 @@ public class libtest3 {
 
     public static void main(String[] args) throws IOException {
         String f = ";";
-        FileChannel fc = new FileInputStream("/Users/wx/IdeaProjects/projet java/1365070268951.mp4").getChannel();
+        FileChannel fc = new FileInputStream("/Users/wx/IdeaProjects/projet java/ear-rape-moaning-girl-troll-sound-crappy-long-edition-loudtronix-hq.mp3").getChannel();
         IsoFile isoFile = new IsoFile(fc);
         MovieBox moov = isoFile.getMovieBox();
         for(Box b : moov.getBoxes()) {
@@ -21,7 +21,9 @@ public class libtest3 {
                 if(a.charAt(i) == f.charAt(0)){
                     System.out.println();
                 }
-                System.out.print(a.charAt(i));
+                else {
+                    System.out.print(a.charAt(i));
+                }
             }
 
         }
